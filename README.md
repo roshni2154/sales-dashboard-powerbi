@@ -65,7 +65,7 @@ View the dashboards directly from the images above
 
 ### Option 2 (Power BI)
 
-1. Download `sales_dashboard.pbix`
+1. Download `oistdashboard.pbix`
 2. Open it using Power BI Desktop
 
 ---
